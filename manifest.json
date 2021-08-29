@@ -1,18 +1,20 @@
 {
-    "format_version": 2,
+    "format_version": 1,
     "header": {
-        "description": "Persona 5 HUD",
+        "description": "Persona 5 inspired HUD by OpenSauce",
         "name": "Persona 5 HUD",
         "uuid": "3ca43767-20d7-45da-84a5-e1c4383fe187",
-        "version": [0, 0, 1],
-        "min_engine_version": [ 1, 17, 10 ]
+        "version": [0, 1, 0]
     },
     "modules": [
         {
             "description": "Persona 5 inspired HUD",
             "type": "resources",
             "uuid": "8e6be526-49e4-445f-a28f-4ddbd1a67c84",
-            "version": [0, 0, 1]
+            "version": [0, 1, 0]
         }
-    ]
+    ],
+	"metadata": {
+      "authors": ["OpenSauce"]
+    },
 }
